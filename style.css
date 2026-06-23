@@ -9,7 +9,7 @@
 }
 
 .hero-content {
-    background: url(/Stripe_Website/images/wave-fallback-tablet.webp);
+    background: url(./images/wave-fallback-tablet.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -24,7 +24,8 @@
 }
 
 .logo img:hover {
-    content: url(/Stripe_Website/images/logo2.png);
+    content: url(./images/logo2.png);
+    transition: all 0.3s ease;
 }
 
 .navbar {
